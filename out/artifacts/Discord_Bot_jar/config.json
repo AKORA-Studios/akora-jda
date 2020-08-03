@@ -1,0 +1,29 @@
+{
+  "owner": [387655649934311427, 586905336850677760],
+  "prefix" : "!",
+  "test_prefix" : "1",
+  "token": "NzA3MTk2OTU5ODQwMDEwMzEx.XrFSmA.JBBn89GbqTF1510-2U3iWSAqrH0",
+  "test_token": "NzEzMDk2MDk4OTMxMjc3ODM1.XsbIkQ.ePauTh-rJnxZXsmUj3-cNo34dOw",
+  "dbAddress" : "192.168.1.24",
+  "dbPort" : "3306",
+  "dbUser" : "root",
+  "dbPassword" : "Hase1234!?",
+  "dbName" : "discord",
+  "guilds_table" : "guild_settings",
+  "guilds_structure" : {
+    "id" : 0,
+    "welcome_msg" : "",
+    "welcome_ch_id:" : 0,
+    "goodbye_msg" : "",
+    "goodbye_ch_id" : 0,
+    "autorole" : 0,
+    "economy" : false
+  },
+  "economy_table" : "economy",
+  "economy_structure" : {
+    "id" : 0,
+    "xp" :  0,
+    "level" : 0,
+    "balance" : 0
+  }
+}

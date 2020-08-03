@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Main-Class: main.Bot
+Class-Path: lava-common-1.1.0.jar commons-collections4-4.1.jar okhttp-3.
+ 13.0.jar mariadb-java-client-2.6.0.jar json-simple-1.1.1.jar annotation
+ s-16.0.1.jar slf4j-api-1.7.25.jar trove4j-3.0.3.jar commons-io-2.6.jar 
+ okio-1.17.2.jar commons-codec-1.11.jar jsr305-3.0.2.jar lavaplayer-1.3.
+ 47.jar JDA-4.1.1_143.jar jsoup-1.12.1.jar opus-java-natives-1.0.4.jar b
+ ase64-2.3.9.jar jna-4.4.0.jar commons-logging-1.2.jar jackson-core-2.10
+ .0.jar httpclient-4.5.10.jar nv-websocket-client-2.9.jar lavaplayer-nat
+ ives-1.3.13.jar opus-java-api-1.0.4.jar jackson-databind-2.10.1.jar htt
+ pcore-4.4.12.jar jackson-annotations-2.10.1.jar
+

@@ -1,3 +1,8 @@
+/.env
+/.vscode
+/config.json
+/package-lock.json
+
 # Compiled class file
 *.class
 
